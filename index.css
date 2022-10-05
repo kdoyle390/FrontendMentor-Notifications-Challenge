@@ -1,0 +1,30 @@
+
+
+body {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: hsl(219, 12%, 42%)
+}
+
+h1 {
+    color: hsl(224, 21%, 14%);
+    display: inline;
+}
+
+
+
+p {
+    font-size: 16px;
+}
+
+
+
+.username {
+    color: hsl(224, 21%, 14%);
+    display: inline;
+    /* font-weight doesn't seem to be doing anything */
+    /* font-weight: 200%;  */
+}
+
+.timestamp {
+    color: hsl(219, 14%, 63%);
+}
